@@ -6,7 +6,7 @@ url: "http://example.com" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Daniel Salvadori - Electrical and Software Engineer
-  avatar: avatar.jpg
+  avatar: avatar.png
   gravatar: # nothing here
   description: "Projects and Ideas" # used by search engines
 
