@@ -1,9 +1,17 @@
 ---
 layout: page
-title: Test Page
-permalink: /testpage/
-feature-img: "img/sample_feature_img_2.png"
+title: Projects
+permalink: /projects/
+feature-img:
 ---
+
+Project 1
+=============
+
+test text
+
+Project 2
+-----------------
 
 Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
