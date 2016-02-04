@@ -5,8 +5,8 @@ permalink: /projects/
 feature-img:
 ---
 
-Project 1
-=============
+[Bleriot XI](https://rohanchandra.github.io/project/type/)
+----------------
 
 test text
 
